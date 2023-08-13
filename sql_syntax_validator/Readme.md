@@ -2,7 +2,7 @@
 
 1. First change the directory to `sql_syntax_validator`.
 2. Update the `config.ini` file.
-3. Then requirements using the following command.
+3. Then install requirements using the following command.
 
     ```python
     pip install requirements.txt
