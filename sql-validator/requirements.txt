@@ -1,3 +1,0 @@
-click
-sqlparse
-psycopg2-binary
