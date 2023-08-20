@@ -7,7 +7,7 @@ setup(
     description="A python package to validate SQL Queries",
     author="Ahmad Wahid",
     author_email="ahmedwahid16101@email.com",
-    url="https://github.com/yourusername/simplemath",
+    url="https://github.com/Ahmad-Wahid/freelancing-tasks/blob/main/sql-validator",
     entry_points={
         "console_scripts": ["sql_validator=sql_validator.validate:main"],
     },
